@@ -10,4 +10,4 @@
 ---
 ### Anotações no notion dos comandos mais usados 
 
-[Anotações Notion](https://www.notion.so/HTTP-328b85ac62364286b841debdde931f58)
+[Anotações Notion](https://indigo-hisser-408.notion.site/HTTP-328b85ac62364286b841debdde931f58)
