@@ -66,3 +66,6 @@
 
 `curl -X DELETE protocolo-subdomínio-domínio-path/id`
 
+### Outras anotações estão no notion
+
+https://www.notion.so/HTTP-328b85ac62364286b841debdde931f58

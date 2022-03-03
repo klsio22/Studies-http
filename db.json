@@ -9,6 +9,16 @@
       "id": 2,
       "title": "json-server-2",
       "author": "Jeferson"
+    },
+    {
+      "id": 4,
+      "title": "json-server-3",
+      "author": "klesio"
+    },
+    {
+      "id": 5,
+      "title": "json-server-4",
+      "author": "Ana"
     }
   ],
   "comments": [
@@ -18,6 +28,9 @@
       "postId": 1
     }
   ],
+  "profile": {
+    "name": "Klesio"
+  },
   "Added new test routesAdded new test routes": {
     "name": "kleydimison"
   }
